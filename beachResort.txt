@@ -1,0 +1,3 @@
+npx create-react-app beach-resort
+
+Add react-icons react-router-dom
